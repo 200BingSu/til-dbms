@@ -79,3 +79,6 @@
 - ENtity의 속성 데이터 타입, 길이, null 허용 여부, 기본값, 제약 조건 등을 세부적으로 작성 후 문서화
 - 즉 `테이블 정의서`를 만든다. (도구 다양)
   ![Image](https://github.com/user-attachments/assets/9d7915e4-b238-41c3-a3f2-92ab82e62b71)
+
+## MySQL 설치
+- https://dev.mysql.com/downloads/installer/
